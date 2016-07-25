@@ -7,5 +7,8 @@ Author
 james_xiong@htc.com
 
 
+Screenshot
+--------------------
+![Alt text](screenshot_20160725_015226_868.png "")
 
 Copyrighted to HTC Corporation.
